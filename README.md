@@ -40,7 +40,10 @@ My Tech Stack:
 </p><hr>
 
 <!-- Working on and Learning -->
-🔭 I’m currently working on: P10 Racing - A fan game for Formula 1 [link coming soon]
+🔭 I’m currently working on: 
+<ul> 
+  <li>P10 Racing - A fan game for Formula 1 [link coming soon]</li>
+</ul>
   
 🌱 I’m currently learning ...
 <p align="left">
@@ -72,6 +75,7 @@ My Tech Stack:
 
 </div>
 </table>
+<hr>
 
 
 <!-- GitHub Stats -->
