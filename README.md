@@ -67,10 +67,13 @@ My Tech Stack:
 <h3 align="center">
   
 [RentInform](https://github.com/RentInform)
-
+<br><br>
+A Demo Comp project
 </h3>
 <div align="center">
-
+  
+[How Demo Comp Builds Stronger Software Development Teams](https://writing.turing.edu/how-demo-comp-builds-stronger-software-development-teams/)  |  [How Demo Comp Makes Turing Grads Even Stronger Hires](https://writing.turing.edu/demo-comp-makes-turing-grads-strong/)
+<br><br>
 [BE Repo](https://github.com/RentInform/Rent-Inform-FE#readme)  |  [FE Repo](https://github.com/RentInform/Rent-Inform-FE#readme)
 
 ![RI_homepage](https://user-images.githubusercontent.com/120869196/244508852-ba6ffa81-7ad6-4ff0-9b8c-31a73fc9ce5f.jpeg)
