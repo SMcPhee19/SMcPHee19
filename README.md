@@ -8,7 +8,7 @@
 📫 Connect With Me!
 <br><ul>
   <li>Graduating this summer from <a href="https://turing.edu/programs">Turing School of Software and Design</a>.</li>
-  <li>I am currently looking for an internship or a new job opportunity, this is <a href="https://docs.google.com/document/d/1XO5c545dZpQz5rpxn-  6_Tg4Kz4CHuZvpK6F-jW8HpR0/edit?usp=sharing">my resume</a>.</li>
+  <li>I am currently looking for an internship or a new job opportunity; this is <a href="https://docs.google.com/document/d/1XO5c545dZpQz5rpxn-6_Tg4Kz4CHuZvpK6F-jW8HpR0/edit?usp=sharing">my resume</a>.</li>
   <li>Feel free to contact me either through below:</li>
 </ul>
 <p align="center">
