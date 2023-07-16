@@ -68,7 +68,7 @@ My Tech Stack:
   
 [RentInform](https://github.com/RentInform)
 <br><br>
-A Demo Comp project
+A Demo Comp *Winning* project
 </h3>
 <div align="center">
   
