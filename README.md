@@ -64,6 +64,7 @@ My Tech Stack:
 <!-- Featured Projects -->
 **Featured Projects**
 <table><tr><td valign="top" width="33%">
+  
 <h3 align="center">
   
 [RentInform](https://github.com/RentInform)
@@ -79,8 +80,29 @@ A Demo Comp *Winning* project
 ![RI_homepage](https://user-images.githubusercontent.com/120869196/244508852-ba6ffa81-7ad6-4ff0-9b8c-31a73fc9ce5f.jpeg)
 
 </div>
-</table>
+
 <hr>
+<!-- This is one Element of the table all the way down to the break below the closing div -->
+<div align="center">  
+
+
+</div>
+</td><td valign="top" width="33%">
+
+<h3 align="center">
+  
+[Game Night](https://github.com/Game-Night-2301)
+
+</h3>
+<div align="center">
+
+[BE Repo](https://github.com/Game-Night-2301/game-night-be/blob/main/README.md)  |  [FE Repo](https://github.com/Game-Night-2301/game-night-fe/blob/main/README.md)
+
+![do_good_homepage](https://user-images.githubusercontent.com/120869196/254120447-c925c90c-cb48-4dd0-bac1-98419214078d.png)
+
+</div>
+</table> 
+<br>
 
 
 <!-- GitHub Stats -->
