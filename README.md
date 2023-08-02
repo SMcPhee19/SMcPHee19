@@ -46,7 +46,7 @@ My Tech Stack:
 <!-- Working on and Learning -->
 🔭 I’m currently working on: 
 <ul> 
-  <li>P10 Racing - A fan game for Formula 1 [link coming soon]</li>
+  <li><a P10 Racing href="https://github.com/SMcPhee19/p10_racing/blob/main/README.md"> P10 Racing </a> - A fan game for Formula 1 </li>
 </ul>
   
 🌱 I’m currently learning ...
