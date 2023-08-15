@@ -7,7 +7,7 @@
 <!-- Connect With Me -->
 📫 Connect With Me!
 <br><ul>
-  <li>Graduating this summer from <a href="https://turing.edu/programs">Turing School of Software and Design</a>.</li>
+  <li>Graduated from <a href="https://turing.edu/programs">Turing School of Software and Design</a>.</li>
   <li>I am currently looking for an internship or a new job opportunity; this is <a href="https://docs.google.com/document/d/1LE5EeIw6RugCdV7_ydVJEzs63eZEj0K972WtvU9z1ak/edit#heading=h.yuzfdhqy0yf0">my resume</a>.</li>
   <li>Feel free to contact me through anything below!</li>
 </ul>
@@ -94,13 +94,14 @@ A Demo Comp *Winning* project
 <h3 align="center">
   
 [Game Night](https://github.com/Game-Night-2301)
-
+<br><br>
+A Demo Comp project
 </h3>
 <div align="center">
 
 [BE Repo](https://github.com/Game-Night-2301/game-night-be/blob/main/README.md)  |  [FE Repo](https://github.com/Game-Night-2301/game-night-fe/blob/main/README.md)
 
-![do_good_homepage](https://user-images.githubusercontent.com/120869196/254120447-c925c90c-cb48-4dd0-bac1-98419214078d.png)
+![game night homepage](https://user-images.githubusercontent.com/120869196/254120447-c925c90c-cb48-4dd0-bac1-98419214078d.png)
 
 </div>
 </table> 
