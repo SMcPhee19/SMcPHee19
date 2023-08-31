@@ -104,6 +104,29 @@ A Demo Comp project
 ![game night homepage](https://user-images.githubusercontent.com/120869196/254120447-c925c90c-cb48-4dd0-bac1-98419214078d.png)
 
 </div>
+<hr>
+<br>
+
+<div align="center">  
+
+
+</div>
+</td><td valign="top" width="33%">
+
+<h3 align="center">
+  
+[P10 Racing](https://github.com/SMcPhee19/p10_racing)
+<br><br>
+A Formula 1 fan game
+</h3>
+<div align="center">
+
+[Repo](https://github.com/SMcPhee19/p10_racing/blob/main/README.md)
+
+![p10-screenshot](https://user-images.githubusercontent.com/120869196/264790656-66bc9b15-5aa6-4bb0-8554-5f8a9c928bec.PNG)
+
+</div>
+<hr>
 </table> 
 <br>
 
