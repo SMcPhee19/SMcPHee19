@@ -8,7 +8,7 @@
 📫 Connect With Me!
 <br><ul>
   <li>Graduated from <a href="https://turing.edu/programs">Turing School of Software and Design</a>.</li>
-  <li>I am currently looking for an internship or a new job opportunity; this is <a href="https://docs.google.com/document/d/1LE5EeIw6RugCdV7_ydVJEzs63eZEj0K972WtvU9z1ak/edit#heading=h.yuzfdhqy0yf0">my resume</a>.</li>
+  <li>I am currently looking for an internship or a new job opportunity; this is <a href="https://github.com/SMcPhee19/SMcPhee19/blob/main/stephen_mcphee%20-%20updated%208_31.pdf">my resume</a>.</li>
   <li>Feel free to contact me through anything below!</li>
 </ul>
 <p align="center">
