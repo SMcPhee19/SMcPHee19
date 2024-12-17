@@ -7,6 +7,7 @@
 <!-- Connect With Me -->
 📫 Connect With Me!
 <br><ul>
+  <li>Currently a software engineer intern at Moutnain Lark Software</li>
   <li>Graduated from <a href="https://turing.edu/programs">Turing School of Software and Design</a>.</li>
   <li>I am currently looking for an internship or a new job opportunity; this is <a href="https://smcphee-portfolio-282128566f93.herokuapp.com/">my resume and portfolio site</a>.</li>
   <li>Feel free to contact me through anything below!</li>
